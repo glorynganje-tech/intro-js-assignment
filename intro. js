@@ -1,0 +1,7 @@
+const name = "Glory-Anne";
+const age = 18;
+const favoriteLanguage = "C";
+
+console.log(`My name is ${name}`);
+console.log(`I am ${age} years old`);
+console.log(`My favorite programming language is ${favoriteLanguage}`);
